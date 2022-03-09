@@ -1,36 +1,25 @@
+## <img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Zenzu](https://github.com/ZenxMato) Welcome To Github Profile
 
-<!--
-**Ns-AnoNymouS/Ns-AnoNymouS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://t.me/PR0FESS0R_99"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ZenxMato&theme=highcontrast" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ZenxMato&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenxMato&layout=compact&theme=tokyonight" align="center">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 〽️CONTRIBUTION
+</p>
+<p align="center">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ZenxMato&custom_title=Contribution+Graph&theme=xcode" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZenxMato&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
+</p>
 
-[<p align="center">
-<img src="https://telegra.ph/file/eccbb5b3e22a1c952aae2.jpg">](https://telegram.dog/Ns_AnoNymouS)
 
-## I am [Zenzu](https://telegram.dog/zenzuzu2)
-
-- 🔭 I’m currently working on telegram botz
-
-- 🌱 I’m currently learning python
-
-- 👯 I’m looking to collaborate on 🤷🏻‍♂️
-
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: [@Zenzuzu2](https://telegram.dog/zenzuzu2)(Telegram)
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ZenxMato/&title=Profile%20Views)
-
-### Status 💫
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ZenxMato&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+<p align="center">
+ 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🧐
+</p>
+<p align="center">
+<img width="50%" src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views" />
+</p>
